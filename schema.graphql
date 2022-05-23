@@ -1,0 +1,17 @@
+type Transaction @key(fields: "id") {
+  id: ID!
+  amount: Float!
+  type: TransactionType!
+  date: String!
+}
+
+enum TransactionType {
+  PLUTUS
+  ALLTAP
+  PLURAL
+}
+
+type Query {
+  transaction(id: ID!): Transaction
+  transactions: [Transaction]
+}

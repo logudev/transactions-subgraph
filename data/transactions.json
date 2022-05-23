@@ -1,0 +1,74 @@
+[
+  {
+    "id": "uogQAZnLcAlT6lMuNbpQg",
+    "amount": "2911.35",
+    "date": "2022-03-13",
+    "type": "ALLTAP"
+  },
+  {
+    "id": "uogQAZnLcAlT6lMuabcdefa",
+    "amount": "302.75",
+    "date": "2022-01-23",
+    "type": "ALLTAP"
+  },
+  {
+    "id": "uogQAZnLcAlT6lkjsefsef",
+    "amount": "112.25",
+    "date": "2022-02-03",
+    "type": "ALLTAP"
+  },
+  {
+    "id": "uogQAZnLcAlT6loeiwej9sd",
+    "amount": "900",
+    "date": "2022-04-17",
+    "type": "ALLTAP"
+  },
+  {
+    "id": "abcQAZnLcAsfckewfcowej9sd",
+    "amount": "820.22",
+    "date": "2022-01-09",
+    "type": "PLUTUS"
+  },
+  {
+    "id": "abcQAZnLcisfc0sns02Dd32n",
+    "amount": "793.19",
+    "date": "2022-03-29",
+    "type": "PLUTUS"
+  },
+  {
+    "id": "abcQAZnLcAsfc2j13e2JJ8k",
+    "amount": "540",
+    "date": "2022-04-19",
+    "type": "PLUTUS"
+  },
+  {
+    "id": "abcQAZnLckjn321DNQJ1NWd",
+    "amount": "90.50",
+    "date": "2022-04-01",
+    "type": "PLUTUS"
+  },
+  {
+    "id": "stGQAZnLckjn321DNQJ1NWd",
+    "amount": "1300.50",
+    "date": "2022-05-11",
+    "type": "PLURAL"
+  },
+  {
+    "id": "stGQAZnLcjsfcscweHWF23n",
+    "amount": "2099",
+    "date": "2022-02-25",
+    "type": "PLURAL"
+  },
+  {
+    "id": "stGQAZnLckjjhsJKSjkk44n",
+    "amount": "1500",
+    "date": "2022-04-01",
+    "type": "PLURAL"
+  },
+  {
+    "id": "stGQAZnLckjn3JKeeJHKLNS2",
+    "amount": "3499",
+    "date": "2022-01-31",
+    "type": "PLURAL"
+  }
+]
